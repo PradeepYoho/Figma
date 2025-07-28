@@ -1,9 +1,13 @@
-import Dashboard from './Dashboard';
 
-function App() {
+import './index.css'; 
+import AppRoutes from './routes/AppRoutes';
+
+const App = () => {
   return (
-    <Dashboard />
+    <div>
+      <AppRoutes/>
+    </div>
   );
-}
-export default App;
+};
 
+export default App;
