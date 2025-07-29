@@ -3,7 +3,7 @@ import React from 'react';
 const institutes = [
   {
     name: 'Bharathidasan University',
-    address: 'National Highway 336 Near, Madurai, Tamil Nadu, 625010',
+    address: 'National Highway 336',
     plan: '',
     branches: true,
     image: 'https://via.placeholder.com/48',
